@@ -19,7 +19,7 @@ void firstE(){
         sideC = (sideB * sin(angleC* (PI / 180))) / sin(angleB*(PI/180));
 
         cout << "a = " << sideA << ", b = " << sideB << ", c = " << sideC << endl;
-        cout << "A = " << angleA << ", B = " << angleB << ", C = " << angleC << endl;
+        cout << "A = " << angleA << "°, B = " << angleB << "°, C = " << angleC << "°" << endl;
 }
 
 // Segundo ejercicio
